@@ -1,2 +1,2 @@
 # Scripts
-Single Scripts that will be combined in other projects
+Single Scripts that will be combined in another projects
